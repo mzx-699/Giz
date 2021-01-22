@@ -1,0 +1,48 @@
+PODS:
+  - ASProgressPopUpView (0.8)
+  - BabyBluetooth (0.7.0)
+  - Bugly (2.5.0)
+  - CocoaAsyncSocket (7.6.2)
+  - IQKeyboardManager (3.3.7)
+  - Masonry (1.0.2)
+  - MBProgressHUD (1.0.0)
+  - RDVTabBarController (1.1.9)
+  - SVProgressHUD (2.1.2)
+
+DEPENDENCIES:
+  - ASProgressPopUpView
+  - BabyBluetooth (~> 0.7.0)
+  - Bugly
+  - CocoaAsyncSocket
+  - IQKeyboardManager
+  - Masonry
+  - MBProgressHUD (~> 1.0.0)
+  - RDVTabBarController
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - ASProgressPopUpView
+    - BabyBluetooth
+    - Bugly
+    - CocoaAsyncSocket
+    - IQKeyboardManager
+    - Masonry
+    - MBProgressHUD
+    - RDVTabBarController
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  ASProgressPopUpView: 945c19297da09a625db48a5a37cabd7756916b9b
+  BabyBluetooth: d50758aecf24d4a0ab9271d69f0f116d6bee51c9
+  Bugly: 3ca9f255c01025582df26f9222893b383c7e4b4e
+  CocoaAsyncSocket: 3541e024f48c54b251638ef72d51dd42808de932
+  IQKeyboardManager: 249c3946acf61345c18b038eb50863fe2793e3a8
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  RDVTabBarController: 67794f7a7a37f8e32f046f85ac67d06ab92d624a
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+
+PODFILE CHECKSUM: a36818382ca3ec78566ea1af0e43a1be75b5719f
+
+COCOAPODS: 1.9.3
